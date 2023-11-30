@@ -26,8 +26,9 @@ Basically search space gets filtered at every stage using a divide and conquer
 strategy.
 
 It is a course project under the course DA212 lab course.
+
 Instructors: Dr. Gaurav Trivedi
-             Dr. Arghyadip Roy
+             and Dr. Arghyadip Roy
              
 Teaching Assistants: Mr. Anupam Kumar
-                     Mr. Pallapu Mohan Krishna
+                     and Mr. Pallapu Mohan Krishna
