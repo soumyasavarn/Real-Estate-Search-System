@@ -1,0 +1,317 @@
+
+
+Habitat Hunt :  Real - Estate Property Search System
+----------------------------------------------------
+
+Do you wish to read instructions ? (Y/N)
+Start entering your query: 
+
+Prestige Parkview - Bakerganj
+Affordability: 4.7
+Safety Rating: 4.8
+Pet Friendly / Cleanliness: 4.4
+Close to school: 4.6
+Overall Luxury: 4.7
+--------------------------
+
+Do you wish to continue? (Y/N)
+Start entering your query: 
+
+Prestige Parkview - Bakerganj
+Affordability: 4.7
+Safety Rating: 4.5
+Pet Friendly / Cleanliness: 4.7
+Close to school: 4.4
+Overall Luxury: 4.7
+--------------------------
+
+
+Ivory Heights - Ashok Rajpath
+Affordability: 4.9
+Safety Rating: 4.6
+Pet Friendly / Cleanliness: 3.6
+Close to school: 3.7
+Overall Luxury: 3.6
+--------------------------
+
+
+Regency Residences - Lodipur
+Affordability: 4.8
+Safety Rating: 4.7
+Pet Friendly / Cleanliness: 2.5
+Close to school: 2.3
+Overall Luxury: 2.3
+--------------------------
+
+
+Dreamland Towers - Rukanpura
+Affordability: 4.6
+Safety Rating: 4.2
+Pet Friendly / Cleanliness: 4.8
+Close to school: 4.7
+Overall Luxury: 4.6
+--------------------------
+
+
+Sapphire Skies Apartments - Kumhrar
+Affordability: 4.7
+Safety Rating: 4.1
+Pet Friendly / Cleanliness: 3.9
+Close to school: 3.9
+Overall Luxury: 3.9
+--------------------------
+
+
+Grandeur Greens - Phulwarisharif
+Affordability: 4.4
+Safety Rating: 3.8
+Pet Friendly / Cleanliness: 2.6
+Close to school: 2.8
+Overall Luxury: 2.8
+--------------------------
+
+
+Velvet Valley Homes - Keshri Nagar
+Affordability: 4.8
+Safety Rating: 2.5
+Pet Friendly / Cleanliness: 4.7
+Close to school: 4.5
+Overall Luxury: 4.5
+--------------------------
+
+
+Celestial City - Lodipur
+Affordability: 4.7
+Safety Rating: 2.8
+Pet Friendly / Cleanliness: 3.9
+Close to school: 3.8
+Overall Luxury: 4
+--------------------------
+
+
+Lotus Gardens - Buddha Colony
+Affordability: 4.6
+Safety Rating: 2.3
+Pet Friendly / Cleanliness: 2.6
+Close to school: 2.5
+Overall Luxury: 2.5
+--------------------------
+
+
+Prime Plaza Apartments - Sipara
+Affordability: 3.6
+Safety Rating: 4.5
+Pet Friendly / Cleanliness: 4.4
+Close to school: 4.4
+Overall Luxury: 4.4
+--------------------------
+
+
+Royal Residences - Agam Kuan
+Affordability: 3.7
+Safety Rating: 4.6
+Pet Friendly / Cleanliness: 3.6
+Close to school: 4
+Overall Luxury: 4.1
+--------------------------
+
+
+Crescent City Homes - Raja Bazar
+Affordability: 4
+Safety Rating: 4.7
+Pet Friendly / Cleanliness: 2.6
+Close to school: 2.4
+Overall Luxury: 2.4
+--------------------------
+
+
+Harmony Heights - Frazer Road
+Affordability: 3.9
+Safety Rating: 4.2
+Pet Friendly / Cleanliness: 4.7
+Close to school: 4.6
+Overall Luxury: 4.6
+--------------------------
+
+
+Pearl Paradise Residences - Gulzarbagh
+Affordability: 4.2
+Safety Rating: 3.7
+Pet Friendly / Cleanliness: 3.9
+Close to school: 3.7
+Overall Luxury: 4.2
+--------------------------
+
+
+Majestic Mansions - Sheikhpura
+Affordability: 3.7
+Safety Rating: 4
+Pet Friendly / Cleanliness: 2.6
+Close to school: 2.3
+Overall Luxury: 2.7
+--------------------------
+
+
+Golden Meadows - Rajvanshi Nagar
+Affordability: 4
+Safety Rating: 2.5
+Pet Friendly / Cleanliness: 4.7
+Close to school: 4.4
+Overall Luxury: 4.6
+--------------------------
+
+
+Emerald Enclave - Anisabad
+Affordability: 3.9
+Safety Rating: 2.2
+Pet Friendly / Cleanliness: 3.8
+Close to school: 3.9
+Overall Luxury: 3.9
+--------------------------
+
+
+Skyline Towers - Kidwaipuri
+Affordability: 3.6
+Safety Rating: 2.3
+Pet Friendly / Cleanliness: 2.2
+Close to school: 2.2
+Overall Luxury: 2.2
+--------------------------
+
+Do you wish to continue? (Y/N)
+Start entering your query: 
+
+Prestige Parkview - Bakerganj
+Affordability: 4.6
+Safety Rating: 4.5
+Pet Friendly / Cleanliness: 4.6
+Close to school: 4.6
+Overall Luxury: 4.7
+--------------------------
+
+
+Ivory Heights - Ashok Rajpath
+Affordability: 4.4
+Safety Rating: 4.7
+Pet Friendly / Cleanliness: 3.9
+Close to school: 3.8
+Overall Luxury: 3.6
+--------------------------
+
+
+Regency Residences - Lodipur
+Affordability: 4.8
+Safety Rating: 4.6
+Pet Friendly / Cleanliness: 2.3
+Close to school: 2.5
+Overall Luxury: 2.7
+--------------------------
+
+Do you wish to continue? (Y/N)
+Start entering your query: 
+
+Prestige Parkview - Bakerganj
+Affordability: 4.7
+Safety Rating: 4.8
+Pet Friendly / Cleanliness: 4.7
+Close to school: 4.6
+Overall Luxury: 4.7
+--------------------------
+
+
+Ivory Heights - Ashok Rajpath
+Affordability: 4.9
+Safety Rating: 4.7
+Pet Friendly / Cleanliness: 3.6
+Close to school: 3.9
+Overall Luxury: 3.6
+--------------------------
+
+
+Regency Residences - Lodipur
+Affordability: 4.8
+Safety Rating: 4.6
+Pet Friendly / Cleanliness: 2.3
+Close to school: 2.5
+Overall Luxury: 2.7
+--------------------------
+
+
+Dreamland Towers - Rukanpura
+Affordability: 4.6
+Safety Rating: 3.6
+Pet Friendly / Cleanliness: 4.7
+Close to school: 4.7
+Overall Luxury: 4.7
+--------------------------
+
+
+Sapphire Skies Apartments - Kumhrar
+Affordability: 4.6
+Safety Rating: 3.7
+Pet Friendly / Cleanliness: 4
+Close to school: 3.9
+Overall Luxury: 3.9
+--------------------------
+
+
+Grandeur Greens - Phulwarisharif
+Affordability: 4.9
+Safety Rating: 4
+Pet Friendly / Cleanliness: 2.2
+Close to school: 2.8
+Overall Luxury: 2.2
+--------------------------
+
+Do you wish to continue? (Y/N)
+Start entering your query: 
+
+Prestige Parkview - Bakerganj
+Affordability: 4.7
+Safety Rating: 4.5
+Pet Friendly / Cleanliness: 4.6
+Close to school: 4.8
+Overall Luxury: 4.7
+--------------------------
+
+
+Dreamland Towers - Rukanpura
+Affordability: 4.7
+Safety Rating: 3.6
+Pet Friendly / Cleanliness: 4.7
+Close to school: 4.7
+Overall Luxury: 4.7
+--------------------------
+
+
+Prime Plaza Apartments - Sipara
+Affordability: 4.2
+Safety Rating: 4.5
+Pet Friendly / Cleanliness: 4.4
+Close to school: 4.7
+Overall Luxury: 4.4
+--------------------------
+
+
+Harmony Heights - Frazer Road
+Affordability: 3.9
+Safety Rating: 4.2
+Pet Friendly / Cleanliness: 4.8
+Close to school: 4.6
+Overall Luxury: 4.6
+--------------------------
+
+Do you wish to continue? (Y/N)
+Start entering your query: 
+
+Prestige Parkview - Bakerganj
+Affordability: 4.6
+Safety Rating: 4.5
+Pet Friendly / Cleanliness: 4.7
+Close to school: 4.5
+Overall Luxury: 4.7
+--------------------------
+
+Do you wish to continue? (Y/N)
+THANK YOU !
+

@@ -1,0 +1,32 @@
+N
+very affordable
+very crime free
+very clean
+-1
+Y
+
+affordable
+-1
+Y
+
+very affordable
+very crime free
+-1
+Y
+
+very affordable
+crime free
+-1
+Y
+
+affordable
+crime free
+very clean
+-1
+Y
+
+very affordable
+very crime free
+very pet friendly
+-1
+N
